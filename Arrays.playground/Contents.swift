@@ -3,7 +3,7 @@
 import UIKit
 
 var str = "Hello, playground"
-
+//changes
 //An array is a collection of objects
 
 //There are many ways to create an array
